@@ -1,0 +1,2 @@
+# chatgpt-exported-conversations-loader
+ChatGPTのエクスポートデータをpandasで読み込んで表示します
